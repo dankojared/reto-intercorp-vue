@@ -1,5 +1,6 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+	<div class="about">
+		<h1>@dankojared</h1>
+		<small>Danko Jared Huamán Herrera</small>
+	</div>
 </template>
